@@ -1,0 +1,6 @@
+apiVersion: "pipelinesascode.tekton.dev/v1alpha1"
+kind: Repository
+metadata:
+  name: new-py-app-0405-repository
+spec:
+  url: https://github.com/stephanie-cy/new-py-app-0405
